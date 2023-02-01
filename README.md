@@ -1,1 +1,3 @@
-# hospital
+# Hospital
+
+Java inheritance assignment
